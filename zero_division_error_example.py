@@ -1,4 +1,4 @@
-# /code/zero_division_error_example.py
+# zero_division_error_example.py
 
 # This will throw a ZeroDivisionError because we are dividing by zero.
 def divide(a, b):

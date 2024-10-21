@@ -1,4 +1,4 @@
-# /code/pdb_debugging_example.py
+# pdb_debugging_example.py
 
 import pdb
 
