@@ -2,8 +2,8 @@
 
 my_list = [1, 2, 3, 4]
 
-# Let's try accessing index 3, which is valid, and index 5, which is out of range
-index_to_access = 5
+# Let's try accessing index 3, which is valid
+index_to_access = 3
 
 # Check if the index exists before accessing it
 if index_to_access < len(my_list):
