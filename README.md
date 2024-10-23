@@ -1,6 +1,4 @@
-Here’s an updated version of your README file to reflect the inclusion of the new troubleshooting exercises and maintain a clear structure. This update highlights the troubleshooting exercises and includes instructions for the new files.
 
----
 
 # Python Error Troubleshooting
 
