@@ -21,21 +21,7 @@ The Python Troubleshooting Toolkit consists of several functions with intentiona
 
 ### Prerequisites
 
-- **Python 3.x**: Ensure you have Python 3 installed on your machine. You can download it from the official [Python website](https://www.python.org/downloads/).
-
-### Installation
-
-1. **Clone the Repository**:  
-   Open your terminal (or command prompt) and run the following command to clone the repository:
-   ```bash
-   git clone https://github.com/your-username/python-troubleshooting-toolkit.git
-   ```
-
-2. **Navigate to the Project Directory**:  
-   Change into the project directory:
-   ```bash
-   cd python-troubleshooting-toolkit
-   ```
+- **Python 3.x**: Ensure you have Python 3 installed on your machine. You can download it from the official [Python website](https://www.python.org/downloads/).s
 
 ## Running the Toolkit
 
