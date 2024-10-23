@@ -21,7 +21,7 @@ The Python Troubleshooting Toolkit consists of several functions with intentiona
 
 ### Prerequisites
 
-- **Python 3.x**: Ensure you have Python 3 installed on your machine. You can download it from the official [Python website](https://www.python.org/downloads/).s
+- **Python 3.x**: Ensure you have Python 3 installed on your machine. You can download it from the official [Python website](https://www.python.org/downloads/).
 
 ## Running the Toolkit
 
