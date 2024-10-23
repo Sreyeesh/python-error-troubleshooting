@@ -10,3 +10,4 @@ def divide(a, b):
 x = 10
 y = 0
 result = divide(x, y)  # The debugger will pause here, allowing you to step through
+
